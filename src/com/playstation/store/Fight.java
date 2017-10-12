@@ -10,6 +10,7 @@ public class Fight {
 		Human human = new Human(name);
 		Zombie zombie = new Zombie (human);
 		//1.2
+		//1.3
 
 	}
 
